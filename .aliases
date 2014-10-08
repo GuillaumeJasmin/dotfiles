@@ -11,10 +11,6 @@ alias showfiles="defaults write com.apple.finder AppleShowAllFiles -bool true &&
 # Edit /etc/hosts
 alias hosts="sudo vim /etc/hosts"
 
-# SSH connection to thibaultlavoisey.com
-alias thibaultlavoisey.com="ssh root@178.62.43.70 -p 2222"
-# SSH connection to myQaa dev
-alias myQaadev="ssh root@94.23.1.34 -p 2222"
 
 # Sublime Text
 alias subl="open -a 'Sublime Text'"
