@@ -11,6 +11,5 @@ alias showfiles="defaults write com.apple.finder AppleShowAllFiles -bool true &&
 # Edit /etc/hosts
 alias hosts="sudo vim /etc/hosts"
 
-
 # Sublime Text
 alias subl="open -a 'Sublime Text'"
